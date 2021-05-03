@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "sequelize": "^6.3.4",
     "sequelize-auto": "^0.5.3",
-    "tedious": "^9.2.1",
+    "tedious": "^11.0.8",
     "express-swagger-generator": "^1.1.17"
   }
 }
